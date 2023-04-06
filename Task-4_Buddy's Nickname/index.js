@@ -1,22 +1,30 @@
-//1. Create an HTTP Server using Express Package and have all the basic things implemented
+require('dotenv').config();
 const express = require('express');
+const { writeData, checkIfFileExists } = require('./utils/file.utils');
+const buddyRouter = require('./routes/buddy.router');
 let app = express();
 
-const buddyRouter = require('./routes/buddy.router');
 
 app.use(express.urlencoded( {extended: false}));
 app.use(express.json());
 
-require('dotenv').config();
-
+//Buddy Router
 app.use('/buddy', buddyRouter);
 
+//Base Router
 app.use('/', (req, res)=>{
     res.send("Base route!");
 });
 
 let port = process.env.PORT;
-app.listen(port, ()=>{
+let file = process.env.FILE;
+app.listen(port, async ()=>{
     console.log("Server is listening @ port : "+port);
+
+    //if no file, create a file with empty array 
+    if (!checkIfFileExists(file)) {
+        await writeData(file, []);
+    }
+
 });
 
