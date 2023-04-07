@@ -1,0 +1,57 @@
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through DELETE","timestamp":"05-04-2023 18:44:55"}
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through DELETE","timestamp":"05-04-2023 18:45:00"}
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through DELETE","timestamp":"05-04-2023 18:45:00"}
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through DELETE","timestamp":"05-04-2023 18:45:01"}
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through DELETE","timestamp":"05-04-2023 18:45:01"}
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through DELETE","timestamp":"05-04-2023 18:45:02"}
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through DELETE","timestamp":"05-04-2023 18:45:07"}
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through DELETE","timestamp":"05-04-2023 18:45:07"}
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through DELETE","timestamp":"05-04-2023 18:45:08"}
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through PUT","timestamp":"05-04-2023 18:45:23"}
+{"level":"http","message":"Base route hit via { req: { method: POST, url: /buddy/5, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"05-04-2023 18:45:27"}
+{"level":"http","message":"Base route hit via { req: { method: POST, url: /buddy/5, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"05-04-2023 18:45:28"}
+{"level":"http","message":"Base route hit via { req: { method: POST, url: /buddy/5, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"05-04-2023 18:45:28"}
+{"level":"http","message":"Base route hit via { req: { method: POST, url: /buddy/5, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"05-04-2023 18:45:29"}
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through GET","timestamp":"05-04-2023 18:45:44"}
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through GET","timestamp":"05-04-2023 18:45:45"}
+{"level":"warn","message":"Buddy not found on \"/buddy/5\" through GET","timestamp":"05-04-2023 18:45:53"}
+{"level":"info","message":"New Buddy Added ","timestamp":"05-04-2023 18:53:02"}
+{"level":"http","message":"Base route hit via { req: { method: PUT, url: /buddy/, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"05-04-2023 18:53:45"}
+{"level":"info","message":"Buddy 4 Info Modified","timestamp":"05-04-2023 18:53:51"}
+{"level":"http","message":"Wrong route hit via { req: { method: PUT, url: /87, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"05-04-2023 19:02:20"}
+{"level":"warn","message":"Buddy not found on \"/buddy/3\" through GET","timestamp":"06-04-2023 17:42:58"}
+{"level":"warn","message":"Buddy not found on \"/buddy/3\" through GET","timestamp":"06-04-2023 17:45:24"}
+{"level":"warn","message":"Buddy not found on \"/buddy/23\" through GET","timestamp":"06-04-2023 17:58:18"}
+{"level":"warn","message":"Buddy not found on \"/buddy/30\" through PUT","timestamp":"06-04-2023 18:29:24"}
+{"level":"warn","message":"Buddy not found on \"/buddy/130\" through PUT","timestamp":"06-04-2023 18:31:36"}
+{"level":"warn","message":"Buddy not found on \"/buddy/130\" through PUT","timestamp":"06-04-2023 23:06:14"}
+{"level":"warn","message":"Buddy not found on \"/buddy/130\" through PUT","timestamp":"06-04-2023 23:10:31"}
+{"level":"warn","message":"Buddy not found on \"/buddy/130\" through PUT","timestamp":"06-04-2023 23:11:24"}
+{"level":"info","message":"Buddy 13 Info Modified","timestamp":"06-04-2023 23:37:19"}
+{"level":"info","message":"Buddy 13 Info Modified","timestamp":"06-04-2023 23:52:34"}
+{"level":"warn","message":"Buddy not found on \"/buddy/130\" through GET","timestamp":"07-04-2023 00:09:21"}
+{"level":"warn","message":"Buddy not found on \"/buddy/130\" through GET","timestamp":"07-04-2023 00:09:22"}
+{"level":"warn","message":"Buddy not found on \"/buddy/130\" through GET","timestamp":"07-04-2023 00:09:39"}
+{"level":"warn","message":"Buddy not found on \"/buddy/130\" through GET","timestamp":"07-04-2023 00:12:27"}
+{"level":"warn","message":"Buddy not found on \"/buddy/130\" through GET","timestamp":"07-04-2023 00:14:59"}
+{"level":"warn","message":"Buddy not found on \"/buddy/100\" through GET","timestamp":"07-04-2023 00:15:25"}
+{"level":"http","message":"Wrong route hit via { req: { method: POST, url: /, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"07-04-2023 00:20:41"}
+{"level":"http","message":"Wrong route hit via { req: { method: PUT, url: /14, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"07-04-2023 00:22:40"}
+{"level":"http","message":"Wrong route hit via { req: { method: PUT, url: /14, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"07-04-2023 00:22:50"}
+{"level":"http","message":"Wrong route hit via { req: { method: PUT, url: /14, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"07-04-2023 00:22:52"}
+{"level":"http","message":"Wrong route hit via { req: { method: PUT, url: /14, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"07-04-2023 00:24:53"}
+{"level":"http","message":"Wrong route hit via { req: { method: PUT, url: /14, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"07-04-2023 00:24:55"}
+{"level":"http","message":"Wrong route hit via { req: { method: PUT, url: /14, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"07-04-2023 00:26:34"}
+{"level":"http","message":"Wrong route hit via { req: { method: PUT, url: /14, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"07-04-2023 00:27:20"}
+{"level":"http","message":"Wrong route hit via { req: { method: PUT, url: /1, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"07-04-2023 00:27:35"}
+{"level":"http","message":"Wrong route hit via { req: { method: PUT, url: /, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }","timestamp":"07-04-2023 00:27:39"}
+{"level":"info","message":"Buddy 14 Info Modified","timestamp":"07-04-2023 00:28:11"}
+{"level":"info","message":"Buddy 14 Info Modified","timestamp":"07-04-2023 00:28:13"}
+{"level":"info","message":"Buddy 14 Info Modified","timestamp":"07-04-2023 00:28:14"}
+{"level":"warn","message":"Buddy not found on \"/buddy/140\" through PUT","timestamp":"07-04-2023 00:28:17"}
+{"level":"warn","message":"Buddy not found on \"/buddy/140\" through PUT","timestamp":"07-04-2023 00:28:18"}
+{"level":"warn","message":"Buddy not found on \"/buddy/140\" through DELETE","timestamp":"07-04-2023 00:29:52"}
+{"level":"warn","message":"Buddy not found on \"/buddy/140\" through DELETE","timestamp":"07-04-2023 00:29:53"}
+{"level":"info","message":"Buddy 14 Deleted","timestamp":"07-04-2023 00:29:56"}
+{"level":"warn","message":"Buddy not found on \"/buddy/14\" through DELETE","timestamp":"07-04-2023 00:29:58"}
+{"level":"warn","message":"Buddy not found on \"/buddy/14\" through GET","timestamp":"07-04-2023 00:30:14"}

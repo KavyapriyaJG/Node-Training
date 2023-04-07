@@ -1,0 +1,48 @@
+05-04-2023 17:15:22 : http --> Base route hit via { req: { method: GET, url: /favicon.ico, headers: { User-Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 } }
+05-04-2023 17:16:48 : http --> Base route hit via { req: { method: GET, url: /favicon.ico, headers: { User-Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 } }
+05-04-2023 17:16:48 : http --> Base route hit via { req: { method: GET, url: /favicon.ico, headers: { User-Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 } }
+05-04-2023 17:29:29 : http --> Base route hit via { req: { method: GET, url: /favicon.ico, headers: { User-Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 } }
+05-04-2023 17:29:30 : http --> Base route hit via { req: { method: GET, url: /favicon.ico, headers: { User-Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 } }
+05-04-2023 17:29:33 : http --> Base route hit via { req: { method: GET, url: /favicon.ico, headers: { User-Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 } }
+05-04-2023 17:29:38 : http --> Base route hit via { req: { method: GET, url: /favicon.ico, headers: { User-Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 } }
+05-04-2023 17:29:40 : http --> Base route hit via { req: { method: GET, url: /favicon.ico, headers: { User-Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 } }
+05-04-2023 17:32:52 : http --> Base route hit via { req: { method: GET, url: /favicon.ico, headers: { User-Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 } }
+05-04-2023 17:32:53 : http --> Base route hit via { req: { method: GET, url: /favicon.ico, headers: { User-Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 } }
+05-04-2023 17:55:07 : http --> Base route hit via { req: { method: DELETE, url: /, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }
+05-04-2023 17:55:20 : http --> Base route hit via { req: { method: DELETE, url: /5, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }
+05-04-2023 17:55:26 : http --> Base route hit via { req: { method: DELETE, url: /buddy/, headers: { User-Agent : Thunder Client (https://www.thunderclient.com) } }
+05-04-2023 18:38:08 : warn --> Buddy not found on "/buddy/5" through GET
+05-04-2023 18:39:10 : warn --> Buddy not found on "/buddy/5" through GET
+05-04-2023 18:39:10 : warn --> Buddy not found on "/buddy/5" through GET
+05-04-2023 18:39:11 : warn --> Buddy not found on "/buddy/5" through GET
+05-04-2023 18:39:11 : warn --> Buddy not found on "/buddy/5" through GET
+05-04-2023 18:42:28 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:42 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:46 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:47 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:47 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:47 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:48 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:48 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:48 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:49 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:49 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:49 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:49 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:50 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:50 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:50 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:51 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:51 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:51 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:42:51 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:43:24 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:43:25 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:43:25 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:43:40 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:43:40 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:43:40 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:43:41 : warn --> Buddy not found on "/buddy/5" through DELETE
+05-04-2023 18:43:41 : warn --> Buddy not found on "/buddy/5" through DELETE
+06-04-2023 10:20:39 : info --> 
+06-04-2023 14:13:40 : info --> Buddy 5 Deleted
